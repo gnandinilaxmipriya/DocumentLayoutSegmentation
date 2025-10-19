@@ -1,2 +1,2 @@
 # DocumentLayoutSegmentation
-DoclayNet dataset
+Training on DoclayNet dataset 
