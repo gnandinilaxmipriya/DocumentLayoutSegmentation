@@ -1,0 +1,13 @@
+Checkpoint: layoutlmv3_doclaynet_tokcls_all/checkpoint-584
+Split: test
+Token accuracy: 0.999063
+Macro F1: 0.000000 | Micro F1: 0.000000 | Macro P: 0.000000 | Macro R: 0.000000
+
+              precision    recall  f1-score   support
+
+      HEADER      0.000     0.000     0.000        17
+        ITLE      0.000     0.000     0.000         1
+
+   micro avg      0.000     0.000     0.000        18
+   macro avg      0.000     0.000     0.000        18
+weighted avg      0.000     0.000     0.000        18
