@@ -1,0 +1,170 @@
+{
+  "page_index": 6,
+  "width": 600,
+  "height": 851,
+  "num_annotations": 9,
+  "annotations": [
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.8741612434387207,
+      "bbox": [
+        401.0,
+        636.0,
+        199.0,
+        215.0
+      ],
+      "bbox_xyxy": [
+        401.0,
+        636.0,
+        600.0,
+        851.0
+      ],
+      "area": 42785.0
+    },
+    {
+      "category_name": "list_item",
+      "category_id": 5,
+      "score": 0.8738661408424377,
+      "bbox": [
+        449.0,
+        512.0,
+        151.0,
+        95.0
+      ],
+      "bbox_xyxy": [
+        449.0,
+        512.0,
+        600.0,
+        607.0
+      ],
+      "area": 14345.0
+    },
+    {
+      "category_name": "list_item",
+      "category_id": 5,
+      "score": 0.8202719688415527,
+      "bbox": [
+        450.0,
+        387.0,
+        150.0,
+        95.0
+      ],
+      "bbox_xyxy": [
+        450.0,
+        387.0,
+        600.0,
+        482.0
+      ],
+      "area": 14250.0
+    },
+    {
+      "category_name": "list_item",
+      "category_id": 5,
+      "score": 0.7824492454528809,
+      "bbox": [
+        450.0,
+        261.0,
+        150.0,
+        95.0
+      ],
+      "bbox_xyxy": [
+        450.0,
+        261.0,
+        600.0,
+        356.0
+      ],
+      "area": 14250.0
+    },
+    {
+      "category_name": "page_header",
+      "category_id": 7,
+      "score": 0.5370965003967285,
+      "bbox": [
+        400.0,
+        146.0,
+        200.0,
+        44.0
+      ],
+      "bbox_xyxy": [
+        400.0,
+        146.0,
+        600.0,
+        190.0
+      ],
+      "area": 8800.0
+    },
+    {
+      "category_name": "page_header",
+      "category_id": 7,
+      "score": 0.4969695806503296,
+      "bbox": [
+        150.0,
+        143.0,
+        45.0,
+        50.0
+      ],
+      "bbox_xyxy": [
+        150.0,
+        143.0,
+        195.0,
+        193.0
+      ],
+      "area": 2250.0
+    },
+    {
+      "category_name": "list_item",
+      "category_id": -1,
+      "score": null,
+      "bbox": [
+        449.0,
+        512.0,
+        151.0,
+        95.0
+      ],
+      "bbox_xyxy": [
+        449.0,
+        512.0,
+        600.0,
+        607.0
+      ],
+      "area": 14345.0
+    },
+    {
+      "category_name": "list_item",
+      "category_id": -1,
+      "score": null,
+      "bbox": [
+        450.0,
+        387.0,
+        150.0,
+        95.0
+      ],
+      "bbox_xyxy": [
+        450.0,
+        387.0,
+        600.0,
+        482.0
+      ],
+      "area": 14250.0
+    },
+    {
+      "category_name": "list_item",
+      "category_id": -1,
+      "score": null,
+      "bbox": [
+        450.0,
+        261.0,
+        150.0,
+        95.0
+      ],
+      "bbox_xyxy": [
+        450.0,
+        261.0,
+        600.0,
+        356.0
+      ],
+      "area": 14250.0
+    }
+  ]
+}

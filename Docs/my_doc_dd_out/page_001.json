@@ -1,0 +1,1974 @@
+{
+  "page_index": 1,
+  "num_annotations": 328,
+  "annotations": [
+    {
+      "category_name": "page_footer",
+      "category_id": 6,
+      "score": 0.8942022919654846,
+      "bbox": null
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.880948543548584,
+      "bbox": null
+    },
+    {
+      "category_name": "list_item",
+      "category_id": 5,
+      "score": 0.8523648381233215,
+      "bbox": null
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.850559651851654,
+      "bbox": null
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.8370887637138367,
+      "bbox": null
+    },
+    {
+      "category_name": "list_item",
+      "category_id": 5,
+      "score": 0.8359102010726929,
+      "bbox": null
+    },
+    {
+      "category_name": "list_item",
+      "category_id": 5,
+      "score": 0.8287361860275269,
+      "bbox": null
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.8244675993919373,
+      "bbox": null
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.7572665214538574,
+      "bbox": null
+    },
+    {
+      "category_name": "section_header",
+      "category_id": 9,
+      "score": 0.5650431513786316,
+      "bbox": null
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.4528745412826538,
+      "bbox": null
+    },
+    {
+      "category_name": "list_item",
+      "category_id": 5,
+      "score": 0.44755083322525024,
+      "bbox": null
+    },
+    {
+      "category_name": "list_item",
+      "category_id": 5,
+      "score": 0.43281614780426025,
+      "bbox": null
+    },
+    {
+      "category_name": "list_item",
+      "category_id": 5,
+      "score": 0.4182523488998413,
+      "bbox": null
+    },
+    {
+      "category_name": "list_item",
+      "category_id": 5,
+      "score": 0.3990553021430969,
+      "bbox": null
+    },
+    {
+      "category_name": "list_item",
+      "category_id": 5,
+      "score": 0.39387819170951843,
+      "bbox": null
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.25410765409469604,
+      "bbox": null
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.23785951733589172,
+      "bbox": null
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.2286381870508194,
+      "bbox": null
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.21312099695205688,
+      "bbox": null
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.1912286877632141,
+      "bbox": null
+    },
+    {
+      "category_name": "section_header",
+      "category_id": 9,
+      "score": 0.18234965205192566,
+      "bbox": null
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.1631847470998764,
+      "bbox": null
+    },
+    {
+      "category_name": "page_header",
+      "category_id": 7,
+      "score": 0.1418343484401703,
+      "bbox": null
+    },
+    {
+      "category_name": "table",
+      "category_id": 10,
+      "score": 0.13614527881145477,
+      "bbox": null
+    },
+    {
+      "category_name": "section_header",
+      "category_id": 9,
+      "score": 0.13383600115776062,
+      "bbox": null
+    },
+    {
+      "category_name": "page_header",
+      "category_id": 7,
+      "score": 0.12981219589710236,
+      "bbox": null
+    },
+    {
+      "category_name": "section_header",
+      "category_id": 9,
+      "score": 0.12718431651592255,
+      "bbox": null
+    },
+    {
+      "category_name": "column",
+      "category_id": 2,
+      "score": 0.5247872471809387,
+      "bbox": null
+    },
+    {
+      "category_name": "row",
+      "category_id": 3,
+      "score": 0.5203858017921448,
+      "bbox": null
+    },
+    {
+      "category_name": "row",
+      "category_id": 3,
+      "score": 0.5043132305145264,
+      "bbox": null
+    },
+    {
+      "category_name": "row",
+      "category_id": 3,
+      "score": 0.4953453540802002,
+      "bbox": null
+    },
+    {
+      "category_name": "row",
+      "category_id": 3,
+      "score": 0.3752600848674774,
+      "bbox": null
+    },
+    {
+      "category_name": "column",
+      "category_id": 2,
+      "score": 0.3480371832847595,
+      "bbox": null
+    },
+    {
+      "category_name": "row",
+      "category_id": 3,
+      "score": 0.33082157373428345,
+      "bbox": null
+    },
+    {
+      "category_name": "column",
+      "category_id": 2,
+      "score": 0.28460848331451416,
+      "bbox": null
+    },
+    {
+      "category_name": "column",
+      "category_id": 2,
+      "score": 0.2464672327041626,
+      "bbox": null
+    },
+    {
+      "category_name": "column_header",
+      "category_id": 4,
+      "score": 0.15692710876464844,
+      "bbox": null
+    },
+    {
+      "category_name": "cell",
+      "category_id": -1,
+      "score": null,
+      "bbox": null
+    },
+    {
+      "category_name": "cell",
+      "category_id": -1,
+      "score": null,
+      "bbox": null
+    },
+    {
+      "category_name": "cell",
+      "category_id": -1,
+      "score": null,
+      "bbox": null
+    },
+    {
+      "category_name": "cell",
+      "category_id": -1,
+      "score": null,
+      "bbox": null
+    },
+    {
+      "category_name": "cell",
+      "category_id": -1,
+      "score": null,
+      "bbox": null
+    },
+    {
+      "category_name": "cell",
+      "category_id": -1,
+      "score": null,
+      "bbox": null
+    },
+    {
+      "category_name": "cell",
+      "category_id": -1,
+      "score": null,
+      "bbox": null
+    },
+    {
+      "category_name": "cell",
+      "category_id": -1,
+      "score": null,
+      "bbox": null
+    },
+    {
+      "category_name": "cell",
+      "category_id": -1,
+      "score": null,
+      "bbox": null
+    },
+    {
+      "category_name": "cell",
+      "category_id": -1,
+      "score": null,
+      "bbox": null
+    },
+    {
+      "category_name": "cell",
+      "category_id": -1,
+      "score": null,
+      "bbox": null
+    },
+    {
+      "category_name": "cell",
+      "category_id": -1,
+      "score": null,
+      "bbox": null
+    },
+    {
+      "category_name": "cell",
+      "category_id": -1,
+      "score": null,
+      "bbox": null
+    },
+    {
+      "category_name": "cell",
+      "category_id": -1,
+      "score": null,
+      "bbox": null
+    },
+    {
+      "category_name": "cell",
+      "category_id": -1,
+      "score": null,
+      "bbox": null
+    },
+    {
+      "category_name": "cell",
+      "category_id": -1,
+      "score": null,
+      "bbox": null
+    },
+    {
+      "category_name": "cell",
+      "category_id": -1,
+      "score": null,
+      "bbox": null
+    },
+    {
+      "category_name": "cell",
+      "category_id": -1,
+      "score": null,
+      "bbox": null
+    },
+    {
+      "category_name": "cell",
+      "category_id": -1,
+      "score": null,
+      "bbox": null
+    },
+    {
+      "category_name": "cell",
+      "category_id": -1,
+      "score": null,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7545995712280273,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7861596941947937,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7518047094345093,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7756173014640808,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.770257830619812,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7444084286689758,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7355840802192688,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7139227390289307,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6565350890159607,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7467255592346191,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7476170063018799,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7591354250907898,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7475246787071228,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7033712863922119,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6820336580276489,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7392446398735046,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.742041289806366,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6623833179473877,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7491640448570251,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6863251328468323,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.741977334022522,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.779403567314148,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7238468527793884,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7967894077301025,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7105158567428589,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7154866456985474,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6953639388084412,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7407074570655823,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7407016158103943,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6638203263282776,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7329265475273132,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7766286730766296,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7527109980583191,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6591428518295288,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7479457259178162,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7566407322883606,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6863851547241211,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7797796130180359,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7330853343009949,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7607273459434509,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6958097219467163,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7697742581367493,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.776939868927002,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.8313758969306946,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6530423760414124,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7442151308059692,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.811842143535614,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.813160240650177,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7202091813087463,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7778098583221436,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7597178220748901,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7025267481803894,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7300312519073486,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7693482041358948,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7821358442306519,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7374728918075562,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.785692036151886,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7221007943153381,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7883583307266235,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7192148566246033,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6459246873855591,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7558885216712952,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7203371524810791,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.5650993585586548,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7568398714065552,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.804253339767456,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6976086497306824,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7351263165473938,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7998433709144592,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7227123975753784,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7811473608016968,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6689784526824951,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7043934464454651,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7033597826957703,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7265121340751648,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6917226910591125,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7492478489875793,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6656553745269775,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7507990002632141,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.8016324639320374,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6490290760993958,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6940709948539734,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7362404465675354,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6839052438735962,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7395256757736206,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7618405818939209,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6812076568603516,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7086264491081238,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7487415075302124,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7093611359596252,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7790966629981995,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.8066489100456238,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7423691749572754,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6705211997032166,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7551466822624207,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6918178796768188,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7747949361801147,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6968937516212463,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7382681965827942,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7104831337928772,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6666045784950256,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.8050944209098816,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6715812683105469,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6662965416908264,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7755703330039978,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7287876009941101,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7184262871742249,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.728253960609436,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7297003865242004,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7846560478210449,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6742056012153625,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7222052812576294,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.548034131526947,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6595978140830994,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7010120153427124,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.781396210193634,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7411255836486816,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7530637383460999,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7244480848312378,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7630918025970459,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6377547979354858,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7740061283111572,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.8401898741722107,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7732354998588562,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7115001082420349,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7703654170036316,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7945597171783447,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7617743015289307,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7159728407859802,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7141088843345642,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7773559093475342,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6998245120048523,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7615607380867004,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7403057813644409,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.8043638467788696,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7274927496910095,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6137706637382507,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7673430442810059,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7436574101448059,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7617321014404297,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7415536642074585,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7304642796516418,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7268856763839722,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7991453409194946,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7996024489402771,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.737699568271637,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7269360423088074,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7655145525932312,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7298452258110046,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7805923223495483,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7854534983634949,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7553207874298096,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6923116445541382,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.762036919593811,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6755233407020569,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7551368474960327,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7329383492469788,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7731147408485413,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6964368224143982,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.8390567898750305,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7199217677116394,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.705274760723114,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7671750783920288,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7775877714157104,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7211867570877075,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7313046455383301,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6988322734832764,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6951208114624023,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6501996517181396,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6481329202651978,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7169065475463867,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7765811085700989,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7430977821350098,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7469831705093384,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.8090797066688538,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7893174290657043,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.8051599860191345,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7794309854507446,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.5463058948516846,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.755024254322052,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7053207159042358,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7603111267089844,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7264836430549622,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6830984950065613,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7145984768867493,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7484047412872314,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7104382514953613,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7674837708473206,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7487844824790955,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7555871605873108,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7436434626579285,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6868435144424438,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7288650274276733,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7423312067985535,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7467226386070251,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.723497748374939,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7410892844200134,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.732011079788208,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7275009751319885,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7417299151420593,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7414062023162842,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6651595830917358,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7305318117141724,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7971460223197937,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7953327298164368,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7228397130966187,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6765726208686829,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7522929906845093,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7906153798103333,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6804473400115967,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7772957682609558,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7292580008506775,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.8044092059135437,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7670060992240906,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7618460059165955,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7218247652053833,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7360685467720032,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7666482925415039,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.723813533782959,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.786768913269043,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.658659040927887,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7200643420219421,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7782375812530518,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7741420865058899,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.658088207244873,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7045530676841736,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7067793011665344,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.760676383972168,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7485093474388123,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7603163719177246,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7680543661117554,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.6927710771560669,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7353562712669373,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7153645753860474,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7245424389839172,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7750871777534485,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7658063173294067,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7709040641784668,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7699276804924011,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7429451942443848,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7050408124923706,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.8218898177146912,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.771296501159668,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7417721748352051,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.746099054813385,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.661586344242096,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7053908109664917,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7229599952697754,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7233061790466309,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.764352023601532,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.8199239373207092,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7657371759414673,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7180386781692505,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.8074375987052917,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.8169466257095337,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7313033938407898,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.8249236941337585,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.8244718909263611,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7172539234161377,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.8052047491073608,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.8493989109992981,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.8325831294059753,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.8026986718177795,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.7283712029457092,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.8183605670928955,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.8229624629020691,
+      "bbox": null
+    },
+    {
+      "category_name": "word",
+      "category_id": 1,
+      "score": 0.8304771780967712,
+      "bbox": null
+    },
+    {
+      "category_name": "list",
+      "category_id": -1,
+      "score": null,
+      "bbox": null
+    },
+    {
+      "category_name": "list",
+      "category_id": -1,
+      "score": null,
+      "bbox": null
+    },
+    {
+      "category_name": "list",
+      "category_id": -1,
+      "score": null,
+      "bbox": null
+    }
+  ]
+}

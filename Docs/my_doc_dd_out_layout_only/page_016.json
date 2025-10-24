@@ -1,0 +1,226 @@
+{
+  "page_index": 16,
+  "num_annotations": 20,
+  "annotations": [
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.7543564438819885,
+      "bbox": [
+        403.0,
+        2468.0,
+        1459.0,
+        144.0
+      ]
+    },
+    {
+      "category_name": "list_item",
+      "category_id": 5,
+      "score": 0.5866205096244812,
+      "bbox": [
+        447.0,
+        1784.0,
+        1415.0,
+        651.0
+      ]
+    },
+    {
+      "category_name": "list_item",
+      "category_id": 5,
+      "score": 0.5079075694084167,
+      "bbox": [
+        448.0,
+        1405.0,
+        1414.0,
+        347.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.47771236300468445,
+      "bbox": [
+        401.0,
+        1123.0,
+        1459.0,
+        145.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.4578494131565094,
+      "bbox": [
+        401.0,
+        1281.0,
+        1458.0,
+        92.0
+      ]
+    },
+    {
+      "category_name": "page_header",
+      "category_id": 7,
+      "score": 0.43989044427871704,
+      "bbox": [
+        150.0,
+        146.0,
+        716.0,
+        44.0
+      ]
+    },
+    {
+      "category_name": "figure",
+      "category_id": 8,
+      "score": 0.3813769519329071,
+      "bbox": [
+        137.0,
+        206.0,
+        1703.0,
+        819.0
+      ]
+    },
+    {
+      "category_name": "table",
+      "category_id": 10,
+      "score": 0.3148411214351654,
+      "bbox": [
+        137.0,
+        206.0,
+        1703.0,
+        819.0
+      ]
+    },
+    {
+      "category_name": "section_header",
+      "category_id": 9,
+      "score": 0.2177027314901352,
+      "bbox": [
+        152.0,
+        270.0,
+        1248.0,
+        49.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.18681380152702332,
+      "bbox": [
+        448.0,
+        1405.0,
+        1414.0,
+        347.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.15523433685302734,
+      "bbox": [
+        447.0,
+        1784.0,
+        1415.0,
+        651.0
+      ]
+    },
+    {
+      "category_name": "page_header",
+      "category_id": 7,
+      "score": 0.13553868234157562,
+      "bbox": [
+        152.0,
+        270.0,
+        1248.0,
+        49.0
+      ]
+    },
+    {
+      "category_name": "list_item",
+      "category_id": 5,
+      "score": 0.12079282850027084,
+      "bbox": [
+        401.0,
+        1281.0,
+        1458.0,
+        92.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.11033625900745392,
+      "bbox": [
+        151.0,
+        271.0,
+        180.0,
+        48.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.10309195518493652,
+      "bbox": [
+        406.0,
+        272.0,
+        992.0,
+        45.0
+      ]
+    },
+    {
+      "category_name": "spanning",
+      "category_id": 6,
+      "score": 0.7559682726860046,
+      "bbox": [
+        11.0,
+        39.0,
+        211.0,
+        753.0
+      ]
+    },
+    {
+      "category_name": "spanning",
+      "category_id": 6,
+      "score": 0.6153825521469116,
+      "bbox": [
+        1359.0,
+        326.0,
+        279.0,
+        475.0
+      ]
+    },
+    {
+      "category_name": "projected_row_header",
+      "category_id": 5,
+      "score": 0.10416815429925919,
+      "bbox": [
+        10.0,
+        370.0,
+        1619.0,
+        113.0
+      ]
+    },
+    {
+      "category_name": "list",
+      "category_id": -1,
+      "score": null,
+      "bbox": [
+        447.0,
+        1784.0,
+        1415.0,
+        651.0
+      ]
+    },
+    {
+      "category_name": "list",
+      "category_id": -1,
+      "score": null,
+      "bbox": [
+        448.0,
+        1405.0,
+        1414.0,
+        347.0
+      ]
+    }
+  ]
+}

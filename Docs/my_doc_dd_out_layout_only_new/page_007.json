@@ -1,0 +1,44 @@
+{
+  "page_index": 7,
+  "width": 600,
+  "height": 851,
+  "num_annotations": 2,
+  "annotations": [
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.9368411898612976,
+      "bbox": [
+        453.0,
+        266.0,
+        147.0,
+        289.0
+      ],
+      "bbox_xyxy": [
+        453.0,
+        266.0,
+        600.0,
+        555.0
+      ],
+      "area": 42483.0
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.9319131970405579,
+      "bbox": [
+        453.0,
+        586.0,
+        147.0,
+        265.0
+      ],
+      "bbox_xyxy": [
+        453.0,
+        586.0,
+        600.0,
+        851.0
+      ],
+      "area": 38955.0
+    }
+  ]
+}

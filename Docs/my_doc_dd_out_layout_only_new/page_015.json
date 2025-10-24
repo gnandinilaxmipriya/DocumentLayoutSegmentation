@@ -1,0 +1,62 @@
+{
+  "page_index": 15,
+  "width": 600,
+  "height": 851,
+  "num_annotations": 3,
+  "annotations": [
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.9325363039970398,
+      "bbox": [
+        402.0,
+        266.0,
+        198.0,
+        190.0
+      ],
+      "bbox_xyxy": [
+        402.0,
+        266.0,
+        600.0,
+        456.0
+      ],
+      "area": 37620.0
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.9212941527366638,
+      "bbox": [
+        402.0,
+        472.0,
+        198.0,
+        288.0
+      ],
+      "bbox_xyxy": [
+        402.0,
+        472.0,
+        600.0,
+        760.0
+      ],
+      "area": 57024.0
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.9205415844917297,
+      "bbox": [
+        401.0,
+        777.0,
+        199.0,
+        74.0
+      ],
+      "bbox_xyxy": [
+        401.0,
+        777.0,
+        600.0,
+        851.0
+      ],
+      "area": 14726.0
+    }
+  ]
+}

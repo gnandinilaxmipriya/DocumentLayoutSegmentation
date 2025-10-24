@@ -1,0 +1,80 @@
+{
+  "page_index": 16,
+  "width": 600,
+  "height": 851,
+  "num_annotations": 4,
+  "annotations": [
+    {
+      "category_name": "page_header",
+      "category_id": 7,
+      "score": 0.43989044427871704,
+      "bbox": [
+        150.0,
+        146.0,
+        450.0,
+        44.0
+      ],
+      "bbox_xyxy": [
+        150.0,
+        146.0,
+        600.0,
+        190.0
+      ],
+      "area": 19800.0
+    },
+    {
+      "category_name": "figure",
+      "category_id": 8,
+      "score": 0.3813769519329071,
+      "bbox": [
+        137.0,
+        206.0,
+        463.0,
+        645.0
+      ],
+      "bbox_xyxy": [
+        137.0,
+        206.0,
+        600.0,
+        851.0
+      ],
+      "area": 298635.0
+    },
+    {
+      "category_name": "table",
+      "category_id": 10,
+      "score": 0.3148411214351654,
+      "bbox": [
+        137.0,
+        206.0,
+        463.0,
+        645.0
+      ],
+      "bbox_xyxy": [
+        137.0,
+        206.0,
+        600.0,
+        851.0
+      ],
+      "area": 298635.0
+    },
+    {
+      "category_name": "spanning",
+      "category_id": 6,
+      "score": 0.7559682726860046,
+      "bbox": [
+        11.0,
+        39.0,
+        211.0,
+        753.0
+      ],
+      "bbox_xyxy": [
+        11.0,
+        39.0,
+        222.0,
+        792.0
+      ],
+      "area": 158883.0
+    }
+  ]
+}

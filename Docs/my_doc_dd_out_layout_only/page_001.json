@@ -1,0 +1,347 @@
+{
+  "page_index": 1,
+  "num_annotations": 31,
+  "annotations": [
+    {
+      "category_name": "page_footer",
+      "category_id": 6,
+      "score": 0.8942022919654846,
+      "bbox": [
+        1807.0,
+        2657.0,
+        47.0,
+        46.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.880948543548584,
+      "bbox": [
+        403.0,
+        1948.0,
+        1459.0,
+        243.0
+      ]
+    },
+    {
+      "category_name": "list_item",
+      "category_id": 5,
+      "score": 0.8523648381233215,
+      "bbox": [
+        449.0,
+        2320.0,
+        1412.0,
+        137.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.850559651851654,
+      "bbox": [
+        453.0,
+        1558.0,
+        1406.0,
+        242.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.8370887637138367,
+      "bbox": [
+        454.0,
+        1827.0,
+        1405.0,
+        92.0
+      ]
+    },
+    {
+      "category_name": "list_item",
+      "category_id": 5,
+      "score": 0.8359102010726929,
+      "bbox": [
+        449.0,
+        2474.0,
+        1415.0,
+        137.0
+      ]
+    },
+    {
+      "category_name": "list_item",
+      "category_id": 5,
+      "score": 0.8287361860275269,
+      "bbox": [
+        450.0,
+        2212.0,
+        1410.0,
+        91.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.8244675993919373,
+      "bbox": [
+        402.0,
+        1316.0,
+        1455.0,
+        93.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.7572665214538574,
+      "bbox": [
+        454.0,
+        1438.0,
+        1403.0,
+        92.0
+      ]
+    },
+    {
+      "category_name": "section_header",
+      "category_id": 9,
+      "score": 0.5650431513786316,
+      "bbox": [
+        401.0,
+        768.0,
+        727.0,
+        104.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.4528745412826538,
+      "bbox": [
+        444.0,
+        125.0,
+        245.0,
+        423.0
+      ]
+    },
+    {
+      "category_name": "list_item",
+      "category_id": 5,
+      "score": 0.44755083322525024,
+      "bbox": [
+        399.0,
+        960.0,
+        415.0,
+        59.0
+      ]
+    },
+    {
+      "category_name": "list_item",
+      "category_id": 5,
+      "score": 0.43281614780426025,
+      "bbox": [
+        401.0,
+        1231.0,
+        358.0,
+        53.0
+      ]
+    },
+    {
+      "category_name": "list_item",
+      "category_id": 5,
+      "score": 0.4182523488998413,
+      "bbox": [
+        398.0,
+        1028.0,
+        502.0,
+        58.0
+      ]
+    },
+    {
+      "category_name": "list_item",
+      "category_id": 5,
+      "score": 0.3990553021430969,
+      "bbox": [
+        399.0,
+        1096.0,
+        594.0,
+        55.0
+      ]
+    },
+    {
+      "category_name": "list_item",
+      "category_id": 5,
+      "score": 0.39387819170951843,
+      "bbox": [
+        400.0,
+        1163.0,
+        595.0,
+        55.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.25410765409469604,
+      "bbox": [
+        401.0,
+        768.0,
+        727.0,
+        104.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.23785951733589172,
+      "bbox": [
+        398.0,
+        1028.0,
+        502.0,
+        58.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.2286381870508194,
+      "bbox": [
+        399.0,
+        1096.0,
+        594.0,
+        55.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.21312099695205688,
+      "bbox": [
+        400.0,
+        1163.0,
+        595.0,
+        55.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.1912286877632141,
+      "bbox": [
+        401.0,
+        1231.0,
+        358.0,
+        53.0
+      ]
+    },
+    {
+      "category_name": "section_header",
+      "category_id": 9,
+      "score": 0.18234965205192566,
+      "bbox": [
+        505.0,
+        228.0,
+        171.0,
+        320.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.1631847470998764,
+      "bbox": [
+        399.0,
+        960.0,
+        415.0,
+        59.0
+      ]
+    },
+    {
+      "category_name": "page_header",
+      "category_id": 7,
+      "score": 0.1418343484401703,
+      "bbox": [
+        505.0,
+        228.0,
+        171.0,
+        320.0
+      ]
+    },
+    {
+      "category_name": "table",
+      "category_id": 10,
+      "score": 0.13614527881145477,
+      "bbox": [
+        398.0,
+        957.0,
+        597.0,
+        328.0
+      ]
+    },
+    {
+      "category_name": "section_header",
+      "category_id": 9,
+      "score": 0.13383600115776062,
+      "bbox": [
+        399.0,
+        960.0,
+        415.0,
+        59.0
+      ]
+    },
+    {
+      "category_name": "page_header",
+      "category_id": 7,
+      "score": 0.12981219589710236,
+      "bbox": [
+        401.0,
+        768.0,
+        727.0,
+        104.0
+      ]
+    },
+    {
+      "category_name": "section_header",
+      "category_id": 9,
+      "score": 0.12718431651592255,
+      "bbox": [
+        401.0,
+        1231.0,
+        358.0,
+        53.0
+      ]
+    },
+    {
+      "category_name": "list",
+      "category_id": -1,
+      "score": null,
+      "bbox": [
+        449.0,
+        2320.0,
+        1412.0,
+        137.0
+      ]
+    },
+    {
+      "category_name": "list",
+      "category_id": -1,
+      "score": null,
+      "bbox": [
+        449.0,
+        2474.0,
+        1415.0,
+        137.0
+      ]
+    },
+    {
+      "category_name": "list",
+      "category_id": -1,
+      "score": null,
+      "bbox": [
+        450.0,
+        2212.0,
+        1410.0,
+        91.0
+      ]
+    }
+  ]
+}

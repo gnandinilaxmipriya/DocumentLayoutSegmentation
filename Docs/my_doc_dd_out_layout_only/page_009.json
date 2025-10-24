@@ -1,0 +1,94 @@
+{
+  "page_index": 9,
+  "num_annotations": 8,
+  "annotations": [
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.9362491369247437,
+      "bbox": [
+        452.0,
+        1366.0,
+        1410.0,
+        454.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.9355686902999878,
+      "bbox": [
+        452.0,
+        265.0,
+        1408.0,
+        196.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.9326688051223755,
+      "bbox": [
+        452.0,
+        494.0,
+        1409.0,
+        506.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.9271804690361023,
+      "bbox": [
+        452.0,
+        1034.0,
+        1410.0,
+        298.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.9147852063179016,
+      "bbox": [
+        401.0,
+        2362.0,
+        1458.0,
+        250.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.9143196940422058,
+      "bbox": [
+        451.0,
+        1853.0,
+        1410.0,
+        402.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.8637017011642456,
+      "bbox": [
+        404.0,
+        2288.0,
+        1200.0,
+        43.0
+      ]
+    },
+    {
+      "category_name": "page_header",
+      "category_id": 7,
+      "score": 0.8205848336219788,
+      "bbox": [
+        1168.0,
+        148.0,
+        684.0,
+        42.0
+      ]
+    }
+  ]
+}

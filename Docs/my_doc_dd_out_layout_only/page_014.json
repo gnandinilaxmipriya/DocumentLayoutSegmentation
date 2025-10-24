@@ -1,0 +1,215 @@
+{
+  "page_index": 14,
+  "num_annotations": 19,
+  "annotations": [
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.7820902466773987,
+      "bbox": [
+        402.0,
+        2249.0,
+        1458.0,
+        145.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.775091826915741,
+      "bbox": [
+        402.0,
+        2416.0,
+        1460.0,
+        195.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.7039743661880493,
+      "bbox": [
+        401.0,
+        1496.0,
+        1465.0,
+        746.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.6417176127433777,
+      "bbox": [
+        401.0,
+        977.0,
+        1460.0,
+        196.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.5905243754386902,
+      "bbox": [
+        400.0,
+        1192.0,
+        1465.0,
+        299.0
+      ]
+    },
+    {
+      "category_name": "page_header",
+      "category_id": 7,
+      "score": 0.4745454490184784,
+      "bbox": [
+        399.0,
+        145.0,
+        469.0,
+        45.0
+      ]
+    },
+    {
+      "category_name": "section_header",
+      "category_id": 9,
+      "score": 0.46201232075691223,
+      "bbox": [
+        149.0,
+        262.0,
+        458.0,
+        52.0
+      ]
+    },
+    {
+      "category_name": "page_header",
+      "category_id": 7,
+      "score": 0.4615091383457184,
+      "bbox": [
+        150.0,
+        144.0,
+        45.0,
+        49.0
+      ]
+    },
+    {
+      "category_name": "figure",
+      "category_id": 8,
+      "score": 0.46082139015197754,
+      "bbox": [
+        433.0,
+        444.0,
+        1090.0,
+        450.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.46059679985046387,
+      "bbox": [
+        441.0,
+        374.0,
+        860.0,
+        43.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.2631223797798157,
+      "bbox": [
+        442.0,
+        654.0,
+        496.0,
+        42.0
+      ]
+    },
+    {
+      "category_name": "section_header",
+      "category_id": 9,
+      "score": 0.2184903919696808,
+      "bbox": [
+        441.0,
+        374.0,
+        860.0,
+        43.0
+      ]
+    },
+    {
+      "category_name": "caption",
+      "category_id": 2,
+      "score": 0.18395192921161652,
+      "bbox": [
+        441.0,
+        374.0,
+        860.0,
+        43.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.17490708827972412,
+      "bbox": [
+        396.0,
+        264.0,
+        210.0,
+        49.0
+      ]
+    },
+    {
+      "category_name": "text",
+      "category_id": 11,
+      "score": 0.14955700933933258,
+      "bbox": [
+        151.0,
+        263.0,
+        175.0,
+        51.0
+      ]
+    },
+    {
+      "category_name": "caption",
+      "category_id": 2,
+      "score": 0.14660105109214783,
+      "bbox": [
+        442.0,
+        654.0,
+        496.0,
+        42.0
+      ]
+    },
+    {
+      "category_name": "section_header",
+      "category_id": 9,
+      "score": 0.14327386021614075,
+      "bbox": [
+        442.0,
+        654.0,
+        496.0,
+        42.0
+      ]
+    },
+    {
+      "category_name": "list_item",
+      "category_id": 5,
+      "score": 0.11493997275829315,
+      "bbox": [
+        441.0,
+        374.0,
+        860.0,
+        43.0
+      ]
+    },
+    {
+      "category_name": "page_header",
+      "category_id": 7,
+      "score": 0.10093557834625244,
+      "bbox": [
+        149.0,
+        262.0,
+        458.0,
+        52.0
+      ]
+    }
+  ]
+}
